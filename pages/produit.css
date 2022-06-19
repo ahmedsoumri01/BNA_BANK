@@ -1,0 +1,14 @@
+a{color: #068b71;}
+    h3{color: #524848;;}
+     #list1 a{ color: white;}
+     #list1 a:hover{ color: rgb(255, 113, 113);
+                font-size: 20px;
+                transition: 1s;
+            }
+            #sec a{color: #feffff;}
+            #sec a:hover{color: #94ffff;}
+            #nav{display: flex;background-color: #068b71;}
+            #input{background-color: #cdf1cd; max-height: 30px;border: none;margin-top: 10px;margin-right: 4px;border-radius: 5px;position: relative;left: 21%;}
+
+
+            
